@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cn.itcast.Controller:war">
+    <output-path>E:/java-ssm/maven_parent/cn.itcast.Controller/target</output-path>
+    <root id="archive" name="cn.itcast.Controller-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="cn.itcast.Controller:war exploded" />
+    </root>
+  </artifact>
+</component>

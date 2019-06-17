@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cn.itcast.Controller" />
+        <module name="cn.itcast.dao" />
+        <module name="cn.itcast.service" />
+        <module name="maven_mybatis_1" />
+        <module name="maven_mybatis_2" />
+        <module name="maven_spring_1" />
+        <module name="maven_spring_2" />
+        <module name="maven_ssm_conform" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cn.itcast.Controller" target="1.5" />
+      <module name="cn.itcast.dao" target="1.5" />
+      <module name="cn.itcast.service" target="1.5" />
+      <module name="maven_mybatis_1" target="1.5" />
+      <module name="maven_mybatis_2" target="1.5" />
+      <module name="maven_parent" target="1.5" />
+      <module name="maven_spring_1" target="1.5" />
+      <module name="maven_spring_2" target="1.5" />
+      <module name="maven_springMVC_1" target="1.5" />
+      <module name="maven_ssm_conform" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

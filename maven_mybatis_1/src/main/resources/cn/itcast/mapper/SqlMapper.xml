@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="usermapper">
+    <select id="select" resultType="User">
+        select * from user
+    </select>
+
+    <delete id="delete" parameterType="integer">
+        delete from user where id=#{int}
+    </delete>
+
+    <insert id="add" parameterType="User">
+        insert into user values(null,#{username},#{password},#{birthday})
+    </insert>
+</mapper>

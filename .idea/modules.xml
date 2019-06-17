@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/java-ssm/maven_parent/cn.itcast.Controller/cn.itcast.Controller.iml" filepath="E:/java-ssm/maven_parent/cn.itcast.Controller/cn.itcast.Controller.iml" />
+      <module fileurl="file://E:/java-ssm/maven_parent/cn.itcast.dao/cn.itcast.dao.iml" filepath="E:/java-ssm/maven_parent/cn.itcast.dao/cn.itcast.dao.iml" />
+      <module fileurl="file://E:/java-ssm/maven_parent/cn.itcast.service/cn.itcast.service.iml" filepath="E:/java-ssm/maven_parent/cn.itcast.service/cn.itcast.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_mybatis_1/maven_mybatis_1.iml" filepath="$PROJECT_DIR$/maven_mybatis_1/maven_mybatis_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_mybatis_2/maven_mybatis_2.iml" filepath="$PROJECT_DIR$/maven_mybatis_2/maven_mybatis_2.iml" />
+      <module fileurl="file://E:/java-ssm/maven_parent/maven_parent.iml" filepath="E:/java-ssm/maven_parent/maven_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_spring_1/maven_spring_1.iml" filepath="$PROJECT_DIR$/maven_spring_1/maven_spring_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_spring_2/maven_spring_2.iml" filepath="$PROJECT_DIR$/maven_spring_2/maven_spring_2.iml" />
+      <module fileurl="file://E:/java-ssm/maven_ssm_conform/maven_ssm_conform.iml" filepath="E:/java-ssm/maven_ssm_conform/maven_ssm_conform.iml" />
+    </modules>
+  </component>
+</project>
